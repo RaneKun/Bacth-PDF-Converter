@@ -2,7 +2,7 @@
 
 **Copyright © RaneKun**
 
-This license governs the use, modification, and distribution of the **Batch-PDF-Converter** project and all files included with it.
+This license governs the use, modification, and distribution of the **Batch PDF Converter** project and all files included with it.
 
 ---
 
