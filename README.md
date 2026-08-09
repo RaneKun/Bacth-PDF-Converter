@@ -3,6 +3,7 @@
 ![Batch Script](https://img.shields.io/badge/script-batch-blue.svg)
 ![Requires](https://img.shields.io/badge/requires-Microsoft%20Office-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4.svg)
+![License](https://img.shields.io/badge/RaneKun-Open--Use--License-yellow.svg)
 
 A powerful Windows batch script that converts multiple file formats to PDF using Microsoft Office automation. Supports Word, PowerPoint, text files, and images with automatic page fitting and centering.
 
